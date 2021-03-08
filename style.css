@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:hsl(240, 90%, 72%);
+}
+canvas {
+   margin-left: 16px;
+  margin-right: 0px; 
+  margin-top: 35px;
+  margin-bottom: 0px;
+}
